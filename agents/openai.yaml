@@ -1,0 +1,8 @@
+interface:
+  display_name: "Mistery趋势交易"
+  short_description: "基于趋势、量价、筹码和仓位纪律的完整交易框架"
+  default_prompt: "请使用 $mistery-trend-trading 分析这笔交易：先判大势，再看结构、量价、仓位与退出条件。"
+
+policy:
+  allow_implicit_invocation: true
+
